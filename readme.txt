@@ -1,4 +1,4 @@
-git is distributed free softwore
+it is distributed free softwore
 do you?
 git tracks changes.
 is it ok?
