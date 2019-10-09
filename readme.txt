@@ -1,4 +1,2 @@
-it is distributed free softwore
-do you?
-git tracks changes.
-is it ok?
+It is a practice for git.
+up to date. 
